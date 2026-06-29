@@ -66,6 +66,11 @@ CREATE TABLE cell_type (
 );
 ```
 
+### Date table ERD
+
+<img width="1260" height="674" alt="image" src="https://github.com/user-attachments/assets/289f2b62-42d1-4c26-8d34-4987cb876816" />
+
+
 ## DB 실행
 SQLite로 01 파일을 실행시킨다.
 
